@@ -108,6 +108,8 @@ module MKRVIDOR4000_graphics_top
 
 );
 
+`define FREE_VERSION
+
 // signal declaration
 
 wire        wOSC_CLK;
